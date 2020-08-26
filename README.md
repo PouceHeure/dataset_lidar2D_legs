@@ -6,6 +6,8 @@ lidar: ydlidar X4
 
 TODO
 
+![dataset_lidar2D_legs-example.png](.doc/dataset_lidar2D_legs-example.png)
+
 ## Architecture
 
 - folder name discribes the height in cm 
@@ -18,3 +20,4 @@ TODO
     | -2.4687099999999997 | 0.645             | 1               |
     | -2.45997            | 0.629             | 1               |
     | -2.45123            | 0.607             | 1               |
+
