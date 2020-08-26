@@ -4,9 +4,13 @@ lidar: ydlidar X4
 
 ## Acquisition 
 
-TODO
+- acquisition pipeline 
 
-![dataset_lidar2D_legs-example.png](.doc/dataset_lidar2D_legs-example.png)
+![dataset_lidar2D_legs-pipeline](.doc/dataset_lidar2D_legs-pipeline.png)
+
+- example data extract  
+
+![dataset_lidar2D_legs-example](.doc/dataset_lidar2D_legs-example.png)
 
 ## Architecture
 
